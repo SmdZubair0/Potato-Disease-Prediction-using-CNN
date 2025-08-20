@@ -59,7 +59,8 @@ To improve model generalization:
 2. Open the notebook
    ```bash
    jupyter notebook Potato_Disease_Detection.ipynb
-  ```
+   ```
+
 3. Execute the cells
 
 ## Future work
